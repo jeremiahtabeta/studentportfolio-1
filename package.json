@@ -1,0 +1,25 @@
+{
+  "name": "studentportfolios",
+  "version": "1.0.0",
+  "description": "Student Portfolio 1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahtabeta/studentportfolio-1.git"
+  },
+  "author": "Jeremiah A Tabeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahtabeta/studentportfolio-1/issues"
+  },
+  "homepage": "https://github.com/jeremiahtabeta/studentportfolio-1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
